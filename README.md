@@ -38,7 +38,7 @@ Windows x64 版，可透過區域網路與 iPhone 互傳檔案、圖片和剪貼
 - **金鑰錯誤：**重新確認兩份捷徑的 `key` 都與 Windows 一致。
 - **主機名稱無法解析：**直接填 Windows 的 IPv4 位址；ZIP 未附 Bonjour 安裝程式。
 
-目前已核對 ZIP 內容及兩張 QR Code 的目的連結，尚未用這個 Windows 打包版本完成 iPhone 實機互傳測試。
+已核對 ZIP 內容及兩張 QR Code 的目的連結。依發佈者回報，Windows 與 iPhone 實機互傳測試正常。
 
 ## 原始專案與授權
 
