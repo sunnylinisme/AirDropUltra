@@ -1,8 +1,12 @@
 # Ultra｜Windows 繁體中文 v1.5.2
 
-[下載 Ultra Windows x64 ZIP](https://github.com/sunnylinisme/AirDropUltra/releases/download/v1.5.2-windows-zh-hant/Ultra-Windows-v1.5.2-zh-Hant-x64.zip) · [下載繁中教學影片（MP4）](https://github.com/sunnylinisme/AirDropUltra/releases/download/v1.5.2-windows-zh-hant/Ultra-Windows-v1.5.2-Tutorial-zh-Hant.mp4) · [發佈頁](https://github.com/sunnylinisme/AirDropUltra/releases/tag/v1.5.2-windows-zh-hant)
+[下載 Ultra Windows x64 ZIP](https://github.com/sunnylinisme/AirDropUltra/releases/download/v1.5.2-windows-zh-hant/Ultra-Windows-v1.5.2-zh-Hant-x64.zip) · [發佈頁](https://github.com/sunnylinisme/AirDropUltra/releases/tag/v1.5.2-windows-zh-hant)
 
 Windows x64 版，可透過區域網路與 iPhone 互傳檔案、圖片和剪貼簿文字。ZIP 內含 Windows 程式、相依檔、繁中說明及兩張捷徑安裝 QR Code；捷徑從下方連結個別安裝。
+
+## 教學影片
+
+https://github.com/user-attachments/assets/4ef7944a-00f4-4d7d-b4f3-1b4dcc36f2c0
 
 ## 1. 設定 Windows
 
