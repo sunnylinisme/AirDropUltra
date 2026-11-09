@@ -1,6 +1,6 @@
 # AirDropUltra｜Windows 繁體中文 v1.5.2
 
-> Windows ZIP 已準備完成，GitHub Release 附件尚未上傳。
+> Windows 繁體中文 v1.5.2 已發佈。[前往發佈頁下載 Windows x64 ZIP](https://github.com/sunnylinisme/AirDropUltra/releases/tag/v1.5.2-windows-zh-hant)
 
 Windows x64 版，可透過區域網路與 iPhone 互傳檔案、圖片和剪貼簿文字。ZIP 內含 Windows 程式、相依檔、繁中說明及兩張捷徑安裝 QR Code；捷徑從下方連結個別安裝。
 
